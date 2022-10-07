@@ -1,6 +1,8 @@
 # Prometheus
 Learning Prometheus - An application used for Monitoring
 
+![architecture](https://github.com/theJaxon/Prometheus/blob/main/etc/Architecture.jpeg)
+
 ### Terminologies
 - Target: Object whose metrics are to be monitored
 - Instance: Endpoint that can be scraped
